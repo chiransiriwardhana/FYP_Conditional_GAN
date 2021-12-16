@@ -2,7 +2,9 @@
  This is Conditional Generative Adversarial Network for removing noises from NIC images
  
  
+ 
  Output images at epoch 300
+ 
 ![image_at_epoch_0300](https://user-images.githubusercontent.com/47823522/146335467-aa869831-b36a-44b9-9a1a-3e724c8a5a4c.png)
  
  
