@@ -19,7 +19,10 @@ An example of noisy image and corresponding generated(noise-less) image. In this
 
 
 ![noise_rmoving](https://user-images.githubusercontent.com/47823522/146335518-4d041b9c-7b2b-4133-8da9-686f25092ff9.png)
+                                            
+                                            
                                             Fig.3
 
 ![original](https://user-images.githubusercontent.com/47823522/146336746-3f8fe519-a89a-4a2d-8d2e-caded221b5bc.PNG)
+                                            
                                             Fig.4
