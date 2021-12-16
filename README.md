@@ -19,7 +19,7 @@
  
                                             Fig.2
  
-An example of noisy image and corresponding generated(noise-less) image. In this images, gray color in bottom image corresponds to synthetic noise, I added.So, This CGAN removes   synthetic noise added at pre-processing stage. When training to remove sysnthetic noise, CGAN model network weights are adjuested. So if we provide new image like fig 4, it removes noises in fig 4.
+Fig3 is an example of noisy image and corresponding generated(noise-less) image. In this images, gray color in bottom image corresponds to synthetic noise, I added.So, This CGAN removes   synthetic noise added at pre-processing stage. When training to remove sysnthetic noise, CGAN model network weights are adjuested. So if we provide new image like fig 4, it removes noises in fig 4.
 
 
 ![noise_rmoving](https://user-images.githubusercontent.com/47823522/146335518-4d041b9c-7b2b-4133-8da9-686f25092ff9.png)
